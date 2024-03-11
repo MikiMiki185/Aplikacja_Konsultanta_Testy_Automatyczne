@@ -15,5 +15,7 @@ Kliknięcię w zakładkę statusu przed zamknięciem
 Zamknięcie Aplikacji
     Click               name: Zamknij
 
+Zamknięcie Aplikacji_2
+    Click               name: Zamknij
 
 
