@@ -18,4 +18,6 @@ Zamknięcie Aplikacji
 Zamknięcie Aplikacji_2
     Click               name: Zamknij
 
+Zamknięcie Aplikacji_3
+    Click               name: Zamknij
 

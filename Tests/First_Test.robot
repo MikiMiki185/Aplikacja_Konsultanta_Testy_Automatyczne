@@ -24,3 +24,5 @@ Smoke Test
 # To jest pierwsza linia po pushu do githuba
 
 # To jest drugi komentarz
+
+# To jest trzeci komentarz
