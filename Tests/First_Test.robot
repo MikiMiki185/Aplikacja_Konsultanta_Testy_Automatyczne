@@ -22,3 +22,5 @@ Smoke Test
 #    Zamknięcie Aplikacji
 
 # To jest pierwsza linia po pushu do githuba
+
+# To jest drugi komentarz
