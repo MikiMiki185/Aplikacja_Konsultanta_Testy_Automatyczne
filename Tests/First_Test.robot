@@ -21,4 +21,4 @@ Smoke Test
 #    Kliknięcię w zakładkę statusu przed zamknięciem
 #    Zamknięcie Aplikacji
 
-
+# To jest pierwsza linia po pushu do githuba
